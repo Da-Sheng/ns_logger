@@ -1,11 +1,15 @@
 {
   "name": "ns_logger",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "logger for heatedloan",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node ./build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Da-Sheng/ns_logger.git"
   },
   "keywords": [
     "logger",
