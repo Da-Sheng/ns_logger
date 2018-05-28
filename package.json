@@ -1,0 +1,22 @@
+{
+  "name": "ns_logger",
+  "version": "1.0.3",
+  "description": "logger for heatedloan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./build.js"
+  },
+  "keywords": [
+    "logger",
+    "heatedloan"
+  ],
+  "author": "mr.sheng",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
